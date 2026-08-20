@@ -9,36 +9,22 @@
 
              Welcome to AlimangoStudio
              -------------------------
-                         .---.              
+                        .---.              
                     .--'     '--.           
                  .-'  _       _  '-.        
                 /    (_)     (_)    \       
-           _.-'|         ^         |'-._    
-        .-'    |    .-----------.  |    '-. 
-     /   _.-'  \   '---------'   / '-._    \
-   /   /        '._           _.'       \    \
-     /    .-'--.   '---------'  .--'-._    \   \
-   /   /         '--.  / \  .--'         \    \
-     /               '-\_/-'               \
-                       / \                 
+           _.-'|         ^           /'-._    
+        .-'    |    .-----------.    /    '-. 
+     /   _.-'   \    '---------'   / '-._    \
+   /   /          '._           _.'       \    \
+     /    .-'--.     '---------'  .--'-._    \   \
+   /   /           '--.  / \  .--'         \    \
+     /                 '-\_/-'               \
+                         / \                 
 
 
-## `./current-focus`
 
-Building **Alimango One** — vertical SaaS platform initially focused on aesthetic clinic operations.
-
-```text
-care         patient management · booking · reviews
-operations   clinic operations · staff · financial management
-engagement   messaging · marketing · social media · advertising
-intelligence content generation · analytics · AI-assisted workflows
-```
-
-The goal is one coherent operating layer for vertical businesses: less tool-switching, clearer workflows, and software that helps teams get useful work done.
-
-## `./toolchain`
-
-`Laravel` · `PHP` · `Vue 3` · `Vite` · `JavaScript` · `MySQL`<br>
+`Laravel` · `PHP` · `Vue 3` · `Vite` · `JavaScript` · `MySQL`· `Python`· `Rust`· `Typescript`· `React`<br>
 `Linux` · `Apache` · `Git` · `GitHub` · `Codex`<br>
 `Meta APIs` · `Google integrations`· `Claude Code`· `Gemma`· `GoogleTimesFM`
 
