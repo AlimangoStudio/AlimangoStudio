@@ -2,12 +2,11 @@
 
 # Alimango Studio
 
-`founder@alimango:~$ build --vertical-saas --with-ai`
 
 </div>
 
 ```text
-                         .---.              founder@alimango
+                         .---.              Welcome to AlimangoStudio
                     .--'     '--.           ----------------
                  .-'  _       _  '-.        ROLE      Founder / Builder
                 /    (_)     (_)    \       BASE      Philippines
@@ -23,7 +22,7 @@
 
 ## `./current-focus`
 
-Building **Alimango One** — an AI-assisted vertical SaaS platform initially focused on aesthetic clinic operations.
+Building **Alimango One** — vertical SaaS platform initially focused on aesthetic clinic operations.
 
 ```text
 care         patient management · booking · reviews
@@ -38,7 +37,7 @@ The goal is one coherent operating layer for vertical businesses: less tool-swit
 
 `Laravel` · `PHP` · `Vue 3` · `Vite` · `JavaScript` · `MySQL`<br>
 `Linux` · `Apache` · `Git` · `GitHub` · `Codex`<br>
-`Meta APIs` · `Google integrations` · `AI-assisted development`
+`Meta APIs` · `Google integrations`· `Claude Code`· `Gemma`· `GoogleTimesFM`
 
 ## `./github --public`
 
@@ -57,7 +56,6 @@ The goal is one coherent operating layer for vertical businesses: less tool-swit
 
 <div align="center">
 
-`ship useful software · automate deliberately · keep the human in the loop`
 
 [github.com/AlimangoStudio](https://github.com/AlimangoStudio)
 
