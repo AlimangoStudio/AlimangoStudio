@@ -13,8 +13,8 @@
                 /    (_)     (_)    \       BASE      Philippines
            _.-'|         ^         |'-._    STUDIO    Alimango Studio
         .-'    |    .-----------.  |    '-. PRODUCT   Alimango One
-       /  _.-'  \   '---------'   / '-._  \ MODE      AI-assisted development
-      /.-'       '._           _.'      '-.\ FOCUS     Vertical SaaS
+       /  _.-'  \   '---------'   / '-._  \ 
+      /.-'       '._           _.'      '-.\ 
      //   _.-'--.   '---------'  .--'-._   \\
     || .-'       '--.  / \  .--'       '-. ||
     \\/              '-\_/-'              \//
