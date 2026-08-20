@@ -61,27 +61,66 @@ z1&z*.                -*0M@1~     =%%$a              ~~-1ax+ax=x*az=1x=az*:..   
                  ;=M+~                                                                                      .=$0;
 
 
-`Laravel` · `PHP` · `Vue 3` · `Vite` · `JavaScript` · `MySQL`· `Python`· `Rust`· `Typescript`· `React`<br>
-`Linux` · `Apache` · `Git` · `GitHub` · `Codex`<br>
-`Meta APIs` · `Google integrations`· `Claude Code`· `Gemma`· `GoogleTimesFM`
+$ whoami
+  Alimango Studio
+  SaaS / AI / Automation / Clinic OS
+
+$ stack --list
+  Laravel      PHP          Vue 3        Vite
+  JavaScript   TypeScript   React        MySQL
+  Python       Rust
+
+$ tools --infra
+  Linux        Apache       Git          GitHub
+  Codex        Claude Code  Gemma        TimesFM
+
+$ integrations
+  Meta APIs
+  Google Integrations
+
+$ status
+  [*] Building
+  [*] Automating
+  [*] Shipping
+
+> Building systems that work while you focus on what matters.
+
+----------------------------------------------------------------
+github.com/AlimangoStudio
+----------------------------------------------------------------
+```
 
 ## `./github --public`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlimangoStudio&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlimangoStudio&amp;theme=github">
-    <img height="165" alt="AlimangoStudio public GitHub activity statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlimangoStudio&amp;theme=github">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlimangoStudio&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlimangoStudio&amp;theme=github">
-    <img height="165" alt="Languages in AlimangoStudio public repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlimangoStudio&amp;theme=github">
-  </picture>
-</div>
 
-<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlimangoStudio&amp;theme=github_dark">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlimangoStudio&amp;theme=github">
+  <img
+    height="165"
+    alt="AlimangoStudio public GitHub activity statistics"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlimangoStudio&amp;theme=github">
+</picture>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlimangoStudio&amp;theme=github_dark">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlimangoStudio&amp;theme=github">
+  <img
+    height="165"
+    alt="Languages in AlimangoStudio public repositories"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlimangoStudio&amp;theme=github">
+</picture>
+
+<br><br>
 
 [github.com/AlimangoStudio](https://github.com/AlimangoStudio)
 
