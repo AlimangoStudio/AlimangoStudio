@@ -6,12 +6,15 @@
 </div>
 
 ```text
-                         .---.              Welcome to AlimangoStudio
-                    .--'     '--.           ----------------
-                 .-'  _       _  '-.        ROLE      Founder / Builder
-                /    (_)     (_)    \       BASE      Philippines
-           _.-'|         ^         |'-._    STUDIO    Alimango Studio
-        .-'    |    .-----------.  |    '-. PRODUCT   Alimango One
+
+             Welcome to AlimangoStudio
+             -------------------------
+                         .---.              
+                    .--'     '--.           
+                 .-'  _       _  '-.        
+                /    (_)     (_)    \       
+           _.-'|         ^         |'-._    
+        .-'    |    .-----------.  |    '-. 
        /  _.-'  \   '---------'   / '-._  \ 
       /.-'       '._           _.'      '-.\ 
      //   _.-'--.   '---------'  .--'-._   \\
