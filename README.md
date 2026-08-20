@@ -7,9 +7,9 @@
 
 ```text
 
-             Welcome to AlimangoStudio
-             -------------------------
-      .**a&+;                                                                 +%W*1x
+                                                     Welcome to AlimangoStudio
+                                                     -------------------------
+                         .**a&+;                                                                 +%W*1x
                         *#%8811:                                                                  ,+aaW08x,
                       =#@0$=                                                                          ;8$%%x:
               ~~1=z*aBW%0*,                                                                             =M$M8%*a+z=:
